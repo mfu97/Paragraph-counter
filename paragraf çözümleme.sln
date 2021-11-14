@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paragraf çözümleme", "paragraf çözümleme\paragraf çözümleme.csproj", "{A32727BD-C9F7-4C25-9BB5-D502B280E89A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "denemeler paragraf", "denemeler paragraf\denemeler paragraf.csproj", "{93A191C0-39B3-4201-98C3-62DBBF8F2E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme fonk", "deneme fonk\deneme fonk.csproj", "{77A8D602-8288-4146-AA72-DEC482C4969E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32727BD-C9F7-4C25-9BB5-D502B280E89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32727BD-C9F7-4C25-9BB5-D502B280E89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32727BD-C9F7-4C25-9BB5-D502B280E89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32727BD-C9F7-4C25-9BB5-D502B280E89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A191C0-39B3-4201-98C3-62DBBF8F2E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A191C0-39B3-4201-98C3-62DBBF8F2E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A191C0-39B3-4201-98C3-62DBBF8F2E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A191C0-39B3-4201-98C3-62DBBF8F2E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A8D602-8288-4146-AA72-DEC482C4969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A8D602-8288-4146-AA72-DEC482C4969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A8D602-8288-4146-AA72-DEC482C4969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A8D602-8288-4146-AA72-DEC482C4969E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
